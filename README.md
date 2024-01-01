@@ -1,2 +1,2 @@
-# worship
-Hymns, scripture, and reflections for private worship
+# Worship
+Hymns and scripture for private worship
